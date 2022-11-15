@@ -1,0 +1,3 @@
+ppo, total_timesteps=1018000, r = +1/-1, score=35, trades 67/52
+ppo, total_timesteps=1200000, r = +1/-1, score=30, trades 35/25
+ppo31 - ppo
